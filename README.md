@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## 📖1.Giới thiệu hệ thống
+## 📖 1. Giới thiệu hệ thống
 
 Hệ thống Quản lý Lịch tập Cá nhân hóa được xây dựng nhằm hỗ trợ người dùng quản lý, theo dõi và tối ưu hóa kế hoạch tập luyện thể thao của bản thân.
 Hệ thống cho phép người dùng  nhận được gợi ý bài tập  phù hợp.
@@ -35,7 +35,7 @@ Ngoài ra, hệ thống còn giúp người dùng theo dõi tiến trình tập 
 
 Mục tiêu của hệ thống là cá nhân hóa trải nghiệm luyện tập bằng cách kết hợp công nghệ web hiện đại và các nguyên tắc khoa học thể hình, giúp người dùng xây dựng thói quen lành mạnh, nâng cao hiệu quả tập luyện và duy trì phong độ lâu dài.
 
-## 📌 2.Ngôn ngữ & Công nghệ chính
+## 📌 2. Ngôn ngữ & Công nghệ chính
 
 Ngôn ngữ lập trình: JavaScript, TypeScript
 
@@ -57,7 +57,7 @@ Môi trường phát triển: Visual Studio Code
 
 Hệ điều hành hỗ trợ: Windows
 
-## 💻3.Hình ảnh các chức năng
+## 💻 3. Hình ảnh các chức năng
 
 * Giao diện trang chủ :
 
